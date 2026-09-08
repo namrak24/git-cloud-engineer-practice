@@ -11,7 +11,10 @@ This repository contains my Git and GitHub practice.
 -Git reset and revert
 
 ##Limux Basics
+
 -Linux File Mangement
+-File file and directory Mangement
+
 -File permissions
 -Processes
 -Networking commands
