@@ -9,3 +9,9 @@ This repository contains my Git and GitHub practice.
 -GitHub
 -Pull requests
 -Git reset and revert
+
+##Limux Basics
+-File Mangement
+-File permissions
+-Processes
+-Networking commands
